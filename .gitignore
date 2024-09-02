@@ -1,0 +1,128 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+
+# dotenv environment variables file
+.env
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+jspm_packages/
+__pycache__/
+
+# Compiled source
+dist/
+build/
+out/
+*.o
+*.so
+*.exe
+*.dll
+
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Rust
+target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.class
+*.project
+*.classpath
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+log/
+tmp/
+db/*.sqlite3
+db/*.sqlite3-journal
+public/system/
+public/uploads
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+vendor/
+
+# C/C++
+*.out
+*.obj
+*.elf
+*.map
+*.hex
+
+# Static site generators
+.cache/
+.next/
+.hugo/
+
+# System files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+*.bak
+*.tmp
+*.backup
+*.orig
+
+# Other backups
+*.bak
+*.swp
+*.swo
+
+# Package files
+*.tgz
+*.7z
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# Coverage reports
+coverage/
+*.lcov
+*.lcov.info
+.nyc_output/
+coverage-final.json
